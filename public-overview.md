@@ -1,4 +1,4 @@
-# AIMoG Apex — Public Overview
+# **AIMoG Apex — Public Overview**
 
 AIMoG Apex (public) is a curated, intentionally minimal collection of examples that express the **design philosophy** behind the private AIMoG Apex Nexus system — without revealing any internal architecture, orchestration, or proprietary workflows.
 
@@ -15,7 +15,7 @@ The public repo expresses the **surface of the philosophy**, not the system bene
 
 ---
 
-## What This Repository Contains
+## **What This Repository Contains**
 
 The examples in this repository are:
 
@@ -30,7 +30,7 @@ They are designed to help others understand the principles that guide AIMoG Apex
 
 ---
 
-## What This Repository Does *Not* Contain
+## **What This Repository Does *Not* Contain**
 
 To avoid confusion:
 
@@ -45,7 +45,7 @@ Nothing here reflects the internal evaluation pipelines, ingestion manifests, ro
 
 ---
 
-## Featured Example
+## **Featured Example**
 
 ### **Confidence‑Grounded RAG Agent**
 A minimal but conceptually advanced RAG example that:
@@ -59,7 +59,20 @@ This example mirrors modern reliability principles while remaining intentionally
 
 ---
 
-## Philosophy
+### **Synthesis Insight Agent (Public Edition)**  
+A minimal, public‑safe example that demonstrates structured insight generation using Azure OpenAI.  
+This agent emphasizes:
+
+- deterministic schema (v1.0)  
+- synthesis‑oriented system prompt  
+- public‑safe routing and evaluation stubs  
+- minimal, isolated project structure  
+
+It complements the `confidence-grounded-rag-agent` by showcasing the **synthesis** side of the AIMoG Apex design philosophy.
+
+---
+
+## **Philosophy**
 
 AIMoG Apex emphasizes:
 
@@ -73,7 +86,7 @@ These principles guide both the public examples and the private system — thoug
 
 ---
 
-## Summary
+## **Summary**
 
 This repository is a **clean, intentional, reliability‑oriented collection of examples** that:
 
@@ -83,3 +96,5 @@ This repository is a **clean, intentional, reliability‑oriented collection of 
 - remain public‑safe and minimal  
 
 It is a curated expression of the AIMoG Apex identity — nothing more, nothing less.
+
+---

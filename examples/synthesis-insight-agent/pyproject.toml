@@ -1,0 +1,12 @@
+[project]
+name = "synthesis-insight-agent"
+version = "0.1.0"
+description = "AIMoG Apex – Phase-7 Synthesis Insight Agent demo"
+requires-python = ">=3.11"
+dependencies = ["requests"]
+
+[project.scripts]
+synthesis-insight-agent = "synthesis_insight_agent.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}

@@ -1,4 +1,4 @@
-# AIMoG Apex — Portfolio Showcase
+# **AIMoG Apex — Portfolio Showcase**
 
 This document provides a high‑level showcase of the AIMoG Apex public repository for hiring managers, collaborators, and technical reviewers.  
 It highlights the clarity, intentionality, and reliability‑oriented design philosophy that defines the AIMoG Apex identity.
@@ -8,7 +8,7 @@ It is a **public‑safe, curated representation** of the principles behind it.
 
 ---
 
-## What This Repository Demonstrates
+## **What This Repository Demonstrates**
 
 ### **1. Clean, Minimal Engineering**
 The examples are intentionally small, readable, and free of unnecessary abstraction.  
@@ -41,7 +41,7 @@ This aligns with contemporary Azure AI practices and demonstrates practical comp
 
 ---
 
-## Featured Example
+## **Featured Example**
 
 ### **Confidence‑Grounded RAG Agent**
 A minimal but conceptually advanced RAG implementation that:
@@ -56,7 +56,20 @@ This example is a **public‑safe conceptual mirror** of careful reasoning princ
 
 ---
 
-## What This Repository Does *Not* Represent
+### **Synthesis Insight Agent (Public Edition)**  
+A minimal, deterministic agent that produces structured architectural insights using Azure OpenAI.  
+It demonstrates:
+
+- a versioned, deterministic schema (v1.0)  
+- synthesis‑oriented system prompting  
+- public‑safe routing and evaluation stubs  
+- Apex‑style logging and minimal project structure  
+
+This example complements the Confidence‑Grounded RAG Agent by showcasing the **synthesis** side of the AIMoG Apex design philosophy.
+
+---
+
+## **What This Repository Does *Not* Represent**
 
 To maintain clarity:
 
@@ -70,7 +83,7 @@ No private ingestion manifests, evaluation pipelines, routing logic, or multi‑
 
 ---
 
-## Why This Matters for a Portfolio
+## **Why This Matters for a Portfolio**
 
 This repository demonstrates:
 
@@ -95,7 +108,7 @@ These qualities matter far more than raw complexity.
 
 ---
 
-## Summary
+## **Summary**
 
 The AIMoG Apex public repository is a **polished, intentional showcase** of:
 
@@ -106,3 +119,5 @@ The AIMoG Apex public repository is a **polished, intentional showcase** of:
 - professional documentation  
 
 It is a curated expression of the AIMoG Apex identity — designed for clarity, not scale.
+
+---
