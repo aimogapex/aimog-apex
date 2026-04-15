@@ -10,14 +10,14 @@ It mirrors the conceptual self‑check loop described in the README and demonstr
 AIMoG Apex does not rely on a single attempt.  
 It evaluates its own output, checks for clarity and structure, and refines when needed.
 
-This demo illustrates:
+This demo shows the behavior — not the architecture — behind that discipline:
 
-- draft generation  
-- self‑evaluation  
-- refinement (when necessary)  
-- final output  
+- generating an initial draft  
+- evaluating its clarity and structure  
+- refining when the draft falls short  
+- presenting a final, composed answer  
 
-All using a lightweight, Phase‑9‑aligned model.
+All using a lightweight model chosen for clarity, speed, and consistency.
 
 ---
 
