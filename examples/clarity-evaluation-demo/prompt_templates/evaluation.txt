@@ -1,0 +1,14 @@
+Evaluate the following draft response for:
+
+- clarity
+- structure
+- completeness
+- alignment with the user request
+
+Draft:
+{{draft}}
+
+Return ONLY one word:
+
+- "strong" if the draft is acceptable
+- "weak" if it needs improvement
